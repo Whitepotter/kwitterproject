@@ -1,0 +1,14 @@
+body{
+    background-color: lightsalmon;
+}
+
+#output{
+    background-color: lightseagreen;
+    color : white;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+button{
+    margin : 10px;
+}
